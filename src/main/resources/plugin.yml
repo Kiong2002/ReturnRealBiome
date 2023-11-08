@@ -1,0 +1,7 @@
+name: ReturnRealBiome
+version: '${project.version}'
+main: com.kiong.returnrealbiome.ReturnRealBiome
+api-version: 1.20
+commands:
+  biome:
+    description: biome.
